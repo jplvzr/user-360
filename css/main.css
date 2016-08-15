@@ -1,0 +1,17 @@
+/* HEADER */
+
+.navbar-hd #bs-example-navbar-collapse-1 {
+	background-color: transparent;
+}
+.jumbotron {
+	background-image: url(../large.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 100%;
+	height: 100%;
+}
+
+/* SECTION */
+
+
+/* FOOTER */
